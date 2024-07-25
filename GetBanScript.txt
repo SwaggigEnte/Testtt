@@ -1,0 +1,8 @@
+While wait() do
+local args = {
+    [1] = "Nigger Nigger Cum Cum Cum Cum Fuck you fuck you fuck fuck fuck 8 year old sex rape children fuck ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+End
